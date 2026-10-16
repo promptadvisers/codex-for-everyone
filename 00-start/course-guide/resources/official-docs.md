@@ -1,6 +1,6 @@
 # Official OpenAI documentation
 
-Reviewed 14 October 2026. Features vary by account, workspace and surface.
+Features vary by account, workspace and surface.
 
 - [app](https://learn.chatgpt.com/docs/app)
 - [projects](https://learn.chatgpt.com/docs/projects)

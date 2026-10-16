@@ -1,5 +1,9 @@
 # OpenAI Codex for Everyone — course kit
 
+## Practice timeline
+
+The dates in the practice files belong to a fixed fictional case. Keep them unchanged for every class. Use the reporting period and as-of date supplied in the project or task card, regardless of the actual class date. For your own work, choose the period covered by your approved inputs.
+
 ## The practice situation
 
 You help coordinate a project to improve employee onboarding. Every Monday, the VP of Operations wants a short update: what changed, what needs a decision, and what happens next.
@@ -13,7 +17,7 @@ You help coordinate a project to improve employee onboarding. Every Monday, the 
 
 The class uses fixed scenario dates so everyone can examine the same evidence. Your real recurring task needs its own reporting rule and refreshed inputs.
 
-O’Reilly, 16 October 2026. Revised 15 October 2026. All practice inputs are fictional.
+O’Reilly workshop. All practice inputs are fictional.
 
 1. Extract this ZIP. Before Lab 1, open the extracted 00-start folder as a local Codex project.
 2. Open course-guide/START-HERE.md inside that project beside the chat. The guide, prompts, cards and portable skill are all available there.

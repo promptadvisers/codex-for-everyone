@@ -1,5 +1,9 @@
 # Start here — your own recurring task
 
+## Practice timeline
+
+The dates in the practice files belong to a fixed fictional case. Keep them unchanged for every class. Use the reporting period and as-of date supplied in the project or task card, regardless of the actual class date. For your own work, choose the period covered by your approved inputs.
+
 ## The practice situation
 
 You help coordinate a project to improve employee onboarding. Every Monday, the VP of Operations wants a short update: what changed, what needs a decision, and what happens next.

@@ -1,6 +1,10 @@
 # OpenAI Codex for Everyone — learner kit
 
-O’Reilly live course with Mark Kashef · 16 October 2026
+## Practice timeline
+
+The dates in the practice files belong to a fixed fictional case. Keep them unchanged for every class. Use the reporting period and as-of date supplied in the project or task card, regardless of the actual class date. For your own work, choose the period covered by your approved inputs.
+
+O’Reilly live course with Mark Kashef
 
 Practice files for a two-hour workshop. All Northstar and practice-input data is fictional. No GitHub account or Git knowledge is required for the Google Drive route.
 

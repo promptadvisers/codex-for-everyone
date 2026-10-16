@@ -23,4 +23,4 @@ OpenAI publishes the CLI, SDK, app-server and core runtime source. This does not
 - [Tool approvals and sandbox orchestration](https://github.com/openai/codex/blob/3ee47c10513f1bb57d869ea650aba28638e3d11c/codex-rs/core/src/tools/orchestrator.rs)
 - [Conversation history](https://github.com/openai/codex/blob/3ee47c10513f1bb57d869ea650aba28638e3d11c/codex-rs/core/src/context_manager/history.rs)
 
-Sources checked 15 October 2026. Repository commit: 3ee47c10513f1bb57d869ea650aba28638e3d11c.
+Source repository snapshot: 3ee47c10513f1bb57d869ea650aba28638e3d11c.
