@@ -1,0 +1,4 @@
+action_id,action,owner,due_date,status,source
+A01,Complete quality review,Priya Shah,2026-10-21,open,meeting-2026-10-14.md D2
+A02,Confirm checklist owner,Maya Chen,2026-10-19,open,meeting-2026-10-14.md Q1
+A03,Own checklist,UNCONFIRMED,,pending,chat-excerpt.md

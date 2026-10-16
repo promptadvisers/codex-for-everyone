@@ -1,0 +1,5 @@
+item_id,item,amount_usd,source_note
+B001,Training materials,7200,Approved
+B002,Workshop delivery,4800,Approved
+B003,Quality review,3000,Approved
+B003,Quality review,3000,Duplicate export row
